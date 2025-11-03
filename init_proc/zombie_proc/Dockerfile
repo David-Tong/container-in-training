@@ -1,4 +1,4 @@
-FROM centos:8.1.1911
+FROM ubuntu:22.04
 
 COPY ./app-test /
 
